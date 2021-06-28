@@ -1,2 +1,3 @@
-var userName = 'Lukasz';
-console.log(userName);
+"use strict";
+var userName2 = 'Lukasz';
+console.log(userName2);

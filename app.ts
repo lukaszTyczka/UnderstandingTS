@@ -1,3 +1,3 @@
 const userName2 = 'Lukasz';
 
-console.log(userName);
+console.log(userName2);
